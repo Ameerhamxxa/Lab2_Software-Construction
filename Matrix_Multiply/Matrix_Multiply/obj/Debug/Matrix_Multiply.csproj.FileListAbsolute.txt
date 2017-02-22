@@ -1,0 +1,5 @@
+c:\users\ameer hamza\documents\visual studio 2015\Projects\Matrix_Multiply\Matrix_Multiply\bin\Debug\Matrix_Multiply.dll
+c:\users\ameer hamza\documents\visual studio 2015\Projects\Matrix_Multiply\Matrix_Multiply\bin\Debug\Matrix_Multiply.pdb
+c:\users\ameer hamza\documents\visual studio 2015\Projects\Matrix_Multiply\Matrix_Multiply\obj\Debug\Matrix_Multiply.csprojResolveAssemblyReference.cache
+c:\users\ameer hamza\documents\visual studio 2015\Projects\Matrix_Multiply\Matrix_Multiply\obj\Debug\Matrix_Multiply.dll
+c:\users\ameer hamza\documents\visual studio 2015\Projects\Matrix_Multiply\Matrix_Multiply\obj\Debug\Matrix_Multiply.pdb
